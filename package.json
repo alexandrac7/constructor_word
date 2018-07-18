@@ -1,0 +1,25 @@
+{
+  "name": "constructor_word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrac7/constructor_word.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrac7/constructor_word/issues"
+  },
+  "homepage": "https://github.com/alexandrac7/constructor_word#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "npm": "^6.1.0",
+    "requirer": "0.0.4"
+  }
+}
